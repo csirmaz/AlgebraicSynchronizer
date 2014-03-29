@@ -7,7 +7,7 @@
    ACM Press, 2001. 175-185.
    Please also see <http://www.epcsirmaz.com/?q=algsyn>.
 
-   This version is intended to work with unsion
+   This version is intended to work with unison
    (unison is Copyright 1999-2012, Benjamin C. Pierce,
    please see <http://www.cis.upenn.edu/~bcpierce/unison/>).
    For a standalone version, please see Reconciler-Standalone.ml.
